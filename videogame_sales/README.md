@@ -19,5 +19,7 @@ Fields include
 
 There are 16,598 records
 
+    file_path = 'https://raw.githubusercontent.com/ashikshezan/datasets/main/videogame_sales/vgsales.csv
+
 source: https://www.kaggle.com/gregorut/videogamesales
 
